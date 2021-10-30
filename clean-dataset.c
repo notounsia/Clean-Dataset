@@ -18,7 +18,7 @@
  		printf("Error, no file found!");	
  		exit(1);
 	}
-	
+// Hai Halo Selamat malam
 	while((bffr = getc(src_file)) != EOF)	{
 		read_data[i] = bffr;
 		i++;			
