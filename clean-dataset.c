@@ -23,8 +23,4 @@
 		read_data[i] = bffr;
 		i++;			
 	}
-
-	printf("%d", i);
-	
-	return 0;
  }
