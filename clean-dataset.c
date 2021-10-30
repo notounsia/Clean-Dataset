@@ -11,9 +11,6 @@
  	// Buka dan baca file sumber
  	FILE *src_file;
  	char read_data[500], bffr;
- 	boolean flag = true;
- 	int i;
-
 	
 	return 0;
  }
